@@ -23,3 +23,7 @@ describe('Tab1Page', () => {
     expect(component).toBeTruthy();
   });
 });
+function beforeEach(arg0: any) {
+  throw new Error('Function not implemented.');
+}
+
